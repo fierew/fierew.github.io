@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[24],{qrLW:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a);n["default"]=()=>l.a.createElement("div",null,l.a.createElement("h1",null,"\u767b\u5f55\u65e5\u5fd7"))}}]);
